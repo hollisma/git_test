@@ -1,4 +1,4 @@
 x = 1;
-y = 2;
+y = 3;
 
 console.log(y);
